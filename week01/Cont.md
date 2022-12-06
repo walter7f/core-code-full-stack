@@ -67,3 +67,11 @@ Output: "even"
 ## [Solucion :)](solucion/OddOrEven.js)
 ---
 ---
+
+
+/// challenge 
+Hi, I'm Walter.
+
+I am a software developer, I started my path as a developer in the bootcamp at CoreCode using JavaScript, TypeScript and NodeJs.
+
+ I am passionate about technology and I want to be present in technological development industries such as TELUS, creating effective and revolutionary solutions. I am a person with a great desire to learn new things and committed to development, I will work hard to achieve my goals.
