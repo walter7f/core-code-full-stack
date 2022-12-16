@@ -73,6 +73,6 @@ pasa el estado actual como parámetro asend
 llamadasevent.preventDefault
 debe ser un componente controlado (es decir, usar onChangepara vincular la entrada al estado del componente)
 
-## [Solucion :)]()
+## [Solucion :)](solucion/SantaWishListFormInReact.jsx)
 ---
 ---
